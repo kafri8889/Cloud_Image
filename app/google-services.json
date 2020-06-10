@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448230552772",
+    "firebase_url": "https://cloud-image-513c7.firebaseio.com",
+    "project_id": "cloud-image-513c7",
+    "storage_bucket": "cloud-image-513c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448230552772:android:af24c5b98b2f7eed908591",
+        "android_client_info": {
+          "package_name": "com.anaf.cloudimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448230552772-1sq5koadg2igg1l2p96l553v1an7runt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmnhThedMVuPMxgbKftxqkQWCpb-GgWb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448230552772-1sq5koadg2igg1l2p96l553v1an7runt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
